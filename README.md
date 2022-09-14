@@ -4,7 +4,7 @@ I'm Dylan Liu, working as staff at HQU, with research interests in information s
 ![mentalfl0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift)
 
 
-### My side projects
+### My projects
 
 1. Allows you to use DLLN3X ZigBee mesh module very easily:
 
