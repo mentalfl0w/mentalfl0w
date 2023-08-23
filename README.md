@@ -10,9 +10,13 @@ I'm Dylan Liu, working as staff at HQU, with research interests in information s
 
     [![DLLN3X_zigbee_mesh_module_library](https://github-readme-stats.vercel.app/api/pin?username=mentalfl0w&repo=DLLN3X_zigbee_mesh_module_library&theme=swift)](https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library)
 
-    > **Note:** This library currently only supports basic send and recieve operations, and will add richer features in the future.
+    > **Note:** This library is now complete, supports basic message sending and receiving, module address reading, on-chip red led flashing control, configuration reading, modification (baud rate, address, etc.), error report, link quality test, on-chip pin control, welcome feedback by opening issues.
 
-2. Other items to be added.
+2. A library of controls written in QML and designed with reference to the Microsoft Ribbon style:
+
+    [![RibbonUI](https://github-readme-stats.vercel.app/api/pin?username=mentalfl0w&repo=RibbonUI&theme=swift)](https://github.com/mentalfl0w/RibbonUI)
+
+3. Other items to be added.
 
 ### Get in touch
 
