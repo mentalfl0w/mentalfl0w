@@ -9,7 +9,6 @@ on:
   push:
     branches:
     - main
-    - snake
     paths:
     - '.github/workflows/generate_readme_snake.yml'
 
