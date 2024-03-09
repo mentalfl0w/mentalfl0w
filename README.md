@@ -1,8 +1,17 @@
 ### Hi there 👋
-I'm Dylan Liu, working as staff at HQU, with research interests in information security, IOT, software engineering and etc.
+I'm Dylan Liu, working as staff at HQU, with interests in information security, IOT, software engineering and etc.
 
-![mentalfl0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact" />
+</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### My projects
 
@@ -20,7 +29,7 @@ I'm Dylan Liu, working as staff at HQU, with research interests in information s
 
 ### Get in touch
 
-[![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-blue)](https://blog.ourdocs.cn/)
+[![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green)](https://blog.ourdocs.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/mentalfl0w)
-
+[![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green)](mailto:mentalflow@ourdocs.cn)
 
