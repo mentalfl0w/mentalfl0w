@@ -30,7 +30,7 @@ I'm Dylan Liu, working as staff at HQU, with interests in information security, 
 
 ### Get in touch
 
-[![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green)](https://blog.ourdocs.cn/)
+[![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green?logo=wordpress)](https://blog.ourdocs.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-mentalfl0w-green?logo=github)](https://github.com/mentalfl0w)
-[![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green)](mailto:mentalflow@ourdocs.cn)
+[![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green?logo=gmail)](mailto:mentalflow@ourdocs.cn)
 
