@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm Dylan Liu, working as staff at HQU, with interests in information security, IOT, software engineering and etc.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact" />
 </a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
