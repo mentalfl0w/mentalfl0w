@@ -5,7 +5,7 @@ I'm Dylan Liu, working as staff at HQU, with interests in information security, 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" />
 </a>
 
 <picture>
