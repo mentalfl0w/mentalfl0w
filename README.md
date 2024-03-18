@@ -1,19 +1,7 @@
 ### Hi there 👋
 I'm Dylan Liu, working as staff at HQU, with interests in information security, IOT, software engineering and etc.
 
-<a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+### My Programming Status 😎
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -91,7 +79,20 @@ Shell                    1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-### My projects
+<a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" />
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+### My projects 🔮
 
 1. Allows you to use DLLN3X ZigBee mesh module very easily:
 
@@ -105,7 +106,7 @@ Shell                    1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 3. Other items to be added.
 
-### Get in touch
+### Get in touch 📧
 
 [![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green?logo=wordpress)](https://blog.ourdocs.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-mentalfl0w-green?logo=github)](https://github.com/mentalfl0w)
