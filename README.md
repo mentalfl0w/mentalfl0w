@@ -14,6 +14,9 @@ I'm Dylan Liu, working as staff at HQU, with interests in information security, 
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### My projects
 
 1. Allows you to use DLLN3X ZigBee mesh module very easily:
