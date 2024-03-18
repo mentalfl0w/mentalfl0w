@@ -79,12 +79,11 @@ Shell                    1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" />
-</a>
+<div align="center"><a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" style="width:46%; height:auto;">
+</a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" style="width:35%; height:auto;">
+</a></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
