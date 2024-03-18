@@ -15,6 +15,79 @@ I'm Dylan Liu, working as staff at HQU, with interests in information security, 
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 27.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 154 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌆 Daytime                47 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+🌃 Evening                81 commits          ███████████░░░░░░░░░░░░░░   42.19 % 
+🌙 Night                  42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Tuesday                  28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Thursday                 30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Friday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Saturday                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+QML                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mentalfl0w/mentalfl0w/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/03/2024 04:34:46 UTC
 <!--END_SECTION:waka-->
 
 ### My projects
