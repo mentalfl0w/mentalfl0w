@@ -91,3 +91,5 @@ CMake                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [![GitHub](https://img.shields.io/badge/GitHub-mentalfl0w-green?logo=github)](https://github.com/mentalfl0w)
 [![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green?logo=gmail)](mailto:mentalflow@ourdocs.cn)
 
+### Support my development ⬆️
+You can buy me a coffee to support my development😉(Click [here](https://afdian.com/a/mentalfl0w) to afdian.)
