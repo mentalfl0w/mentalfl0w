@@ -92,4 +92,6 @@ CMake                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green?logo=gmail)](mailto:mentalflow@ourdocs.cn)
 
 ### Support my development ⬆️
-You can buy me a coffee to support my development😉(Click [here](https://afdian.com/a/mentalfl0w) to afdian.)
+You can buy me a coffee to support my development😉(Click [here](https://afdian.com/a/mentalfl0w) to afdian or scan the QR Code.)
+![afdian](assets/afdian-Dylan%20Liu.jpg)
+
