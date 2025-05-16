@@ -93,5 +93,7 @@ CMake                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### Support my development ⬆️
 You can buy me a coffee to support my development😉(Click [here](https://afdian.com/a/mentalfl0w) to afdian or scan the QR Code.)
-![afdian](assets/afdian-Dylan%20Liu.jpg)
+<div align="center">
+    <img src="assets/afdian-Dylan%20Liu.jpg" alt="afdian" style="width:40%; height:auto;">
+</div>
 
