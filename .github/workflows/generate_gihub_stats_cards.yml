@@ -39,7 +39,7 @@ jobs:
           path: profile/pin-DLLN3X_zigbee_mesh_module_library.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate DLLN3X_zigbee_mesh_module_library pin card
+      - name: Generate RibbonUI pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
