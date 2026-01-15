@@ -57,10 +57,11 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<div align="center"><a href="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mentalfl0w&show_icons=true&theme=swift" style="width:46%; height:auto;">
-</a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalfl0w&layout=compact&theme=swift" style="width:35%; height:auto;">
+<div align="center"><a>
+  <img align="center" src="https://github.com/mentalfl0w/mentalfl0w/raw/profile/stats.svg" style="width:46%; height:auto;">
+</a>
+<a>
+  <img align="center" src="https://github.com/mentalfl0w/mentalfl0w/raw/profile/top-langs.svg" style="width:35%; height:auto;">
 </a></div>
 
 <picture>
@@ -73,13 +74,13 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 1. Allows you to use DLLN3X ZigBee mesh module very easily:
 
-    [![DLLN3X_zigbee_mesh_module_library](https://github-readme-stats.vercel.app/api/pin?username=mentalfl0w&repo=DLLN3X_zigbee_mesh_module_library&theme=swift)](https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library)
+    [![DLLN3X_zigbee_mesh_module_library](./profile/pin-DLLN3X_zigbee_mesh_module_library.svg)](https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library)
 
     > **Note:** This library is now complete, supports basic message sending and receiving, module address reading, on-chip red led flashing control, configuration reading, modification (baud rate, address, etc.), error report, link quality test, on-chip pin control, welcome feedback by opening issues.
 
 2. A library of controls written in QML and designed with reference to the Microsoft Ribbon style:
 
-    [![RibbonUI](https://github-readme-stats.vercel.app/api/pin?username=mentalfl0w&repo=RibbonUI&theme=swift)](https://github.com/mentalfl0w/RibbonUI)
+    [![RibbonUI](./profile/pin-RibbonUI.svg)](https://github.com/mentalfl0w/RibbonUI)
 
 3. Other items to be added.
 
