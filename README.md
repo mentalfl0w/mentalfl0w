@@ -58,10 +58,10 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <div align="center"><a>
-  <img align="center" src="https://github.com/mentalfl0w/mentalfl0w/raw/profile/stats.svg" style="width:46%; height:auto;">
+  <img align="center" src="profile/stats.svg" style="width:46%; height:auto;">
 </a>
 <a>
-  <img align="center" src="https://github.com/mentalfl0w/mentalfl0w/raw/profile/top-langs.svg" style="width:35%; height:auto;">
+  <img align="center" src="profile/top-langs.svg" style="width:35%; height:auto;">
 </a></div>
 
 <picture>
