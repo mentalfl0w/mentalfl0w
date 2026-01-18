@@ -89,10 +89,3 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green?logo=wordpress)](https://blog.ourdocs.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-mentalfl0w-green?logo=github)](https://github.com/mentalfl0w)
 [![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green?logo=gmail)](mailto:mentalflow@ourdocs.cn)
-
-### Support my development ⬆️
-You can buy me a coffee to support my development😉(Click [here](https://afdian.com/a/mentalfl0w) to afdian or scan the QR Code.)
-<div align="center">
-    <img src="assets/afdian-Dylan%20Liu.jpg" alt="afdian" style="width:25%; height:auto;">
-</div>
-
