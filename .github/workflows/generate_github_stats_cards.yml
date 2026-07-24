@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=swift
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v2
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=swift
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate DLLN3X_zigbee_mesh_module_library pin card
         uses: readme-tools/github-readme-stats-action@v2
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=DLLN3X_zigbee_mesh_module_library&theme=swift
           path: profile/pin-DLLN3X_zigbee_mesh_module_library.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate RibbonUI pin card
         uses: readme-tools/github-readme-stats-action@v2
@@ -45,7 +45,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=RibbonUI&theme=swift
           path: profile/pin-RibbonUI.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit cards
         run: |
