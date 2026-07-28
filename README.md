@@ -37,30 +37,6 @@ Saturday                 347 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 Sunday                   358 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.05 % 
 ```
 
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 28 mins (77.26%)
-
-✍️ 5,558 lines written by AI, 513 lines written by hand (91.55% AI-written)
-
-🔤 4,464,012 Input Tokens, 31,026 Output Tokens
-
-💵 $13.86 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 209 AI Prompts
-
-Github-Copilot           7,272 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-Xopglm                   0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 91.55% of written lines came from AI
-📄 Detailed Prompter — average 1,197 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 8.68% of changed lines were hand-edited
-```
-
 **I Mostly Code in C++** 
 
 ```text
