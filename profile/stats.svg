@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dylan Liu&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 204, Total Commits  (last year) : 2376, Total PRs: 98, Total Issues: 52, Contributed to (last year): 43</desc>
+        <desc id="descId">Total Stars Earned: 204, Total Commits  (last year) : 2371, Total PRs: 98, Total Issues: 52, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.11603912606218;
+        stroke-dashoffset: 68.11684444658128;
       }
     }
   
