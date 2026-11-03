@@ -1,0 +1,29 @@
+name: GitHub commit cadence
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/generate_commit_cadence.yml
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Render commit cadence card
+        uses: seijikohara/profile-cards-action@6b3cde2688d04b57df6eff5effd78feabc486eb7
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          username: ${{ github.repository_owner }}
+          cards: cadence
+          output-dir: profile
+          themes: light,dark
+          palette: blue
+          commit: true
+          commit-message: "chore(profile): refresh cadence card [skip ci]"
