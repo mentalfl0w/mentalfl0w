@@ -1,4 +1,4 @@
-name: GitHub development metrics
+name: GitHub lines history
 
 on:
   schedule:
@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - README.md
       - .github/workflows/generate_github_metrics.yml
 
 permissions:
@@ -20,14 +19,9 @@ jobs:
         uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: profile/development-metrics.svg
+          filename: profile/lines-history.svg
           base: ""
           config_timezone: Asia/Shanghai
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_languages_limit: 0
           plugin_lines: yes
           plugin_lines_sections: repositories,history
           plugin_lines_repositories_limit: 4
