@@ -29,7 +29,7 @@ I work at HQU and am interested in information security, IoT, and software engin
 </picture>
 
 <picture>
-  <img src="./profile/lines-history.svg" alt="Lines of code added and removed over the past year" width="100%" />
+  <img src="./profile/lines-history.svg" alt="Lines of code added and removed over the last two calendar years" width="100%" />
 </picture>
 
 ## Featured projects
