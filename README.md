@@ -1,91 +1,50 @@
-### Hi there 👋
-I'm Dylan Liu, working as staff at HQU, with interests in information security, IOT, software engineering and etc.
+# Dylan Liu
 
-### My Programming Status 😎
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952.13%20thousand%20lines%20of%20code-blue?style=flat)
+<p align="center">
+  Staff at HQU · Information Security · IoT · Software Engineering
+</p>
 
-**🐱 My GitHub Data** 
+<p align="center">
+  <a href="https://blog.ourdocs.cn/">Blog</a> ·
+  <a href="https://github.com/mentalfl0w">GitHub</a> ·
+  <a href="mailto:mentalflow@ourdocs.cn">Email</a>
+</p>
 
-> 📦 372.3 kB Used in GitHub's Storage 
- > 
-> 🏆 2,534 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                1342 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.39 % 
-🌆 Daytime                535 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.91 % 
-🌃 Evening                1390 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.73 % 
-🌙 Night                  322 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
+## About
 
-```text
-Monday                   488 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.60 % 
-Tuesday                  499 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.90 % 
-Wednesday                455 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.68 % 
-Thursday                 496 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.82 % 
-Friday                   472 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.15 % 
-Saturday                 520 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.49 % 
-Sunday                   659 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.36 % 
-```
+I work at HQU and am interested in information security, IoT, and software engineering.
 
+## GitHub activity
 
-**I Mostly Code in C++** 
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub profile statistics" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top languages by repository" width="49%" />
+</p>
 
-```text
-C++                      53 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.99 % 
-TypeScript               12 repos            ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.90 % 
-JavaScript               5 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.38 % 
-CMake                    3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23 % 
-Swift                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.08 % 
-```
+<p align="center">
+  <img src="./profile/development-metrics.svg" alt="Commit habits and lines of code changed" width="100%" />
+</p>
 
+## Featured projects
 
+<p align="center">
+  <a href="https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library">
+    <img src="./profile/pin-DLLN3X_zigbee_mesh_module_library.svg" alt="DLLN3X ZigBee mesh module library" width="48%" />
+  </a>
+  <a href="https://github.com/mentalfl0w/RibbonUI">
+    <img src="./profile/pin-RibbonUI.svg" alt="RibbonUI QML controls" width="48%" />
+  </a>
+</p>
 
-**Timeline**
+- **DLLN3X ZigBee mesh module library** — A library for communicating with and configuring the DLLN3X ZigBee mesh module.
+- **RibbonUI** — QML controls inspired by the Microsoft Ribbon interface.
 
-![Lines of Code chart](https://raw.githubusercontent.com/mentalfl0w/mentalfl0w/main/assets/bar_graph.png)
-
-
-<!--END_SECTION:waka-->
-
-<div align="center"><a>
-  <img align="center" src="profile/stats.svg" style="width:46%; height:auto;">
-</a>
-<a>
-  <img align="center" src="profile/top-langs.svg" style="width:35%; height:auto;">
-</a></div>
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://github.com/mentalfl0w/mentalfl0w/raw/snake/github-contribution-grid-snake.svg" />
 </picture>
-
-### My projects 🔮
-
-1. Allows you to use DLLN3X ZigBee mesh module very easily:
-
-    [![DLLN3X_zigbee_mesh_module_library](./profile/pin-DLLN3X_zigbee_mesh_module_library.svg)](https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library)
-
-    > **Note:** This library is now complete, supports basic message sending and receiving, module address reading, on-chip red led flashing control, configuration reading, modification (baud rate, address, etc.), error report, link quality test, on-chip pin control, welcome feedback by opening issues.
-
-2. A library of controls written in QML and designed with reference to the Microsoft Ribbon style:
-
-    [![RibbonUI](./profile/pin-RibbonUI.svg)](https://github.com/mentalfl0w/RibbonUI)
-
-3. Other items to be added.
-
-### Get in touch 📧
-
-[![My blog](https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.ourdocs.cn-green?logo=wordpress)](https://blog.ourdocs.cn/)
-[![GitHub](https://img.shields.io/badge/GitHub-mentalfl0w-green?logo=github)](https://github.com/mentalfl0w)
-[![Email](https://img.shields.io/badge/Email-mentalflow@ourdocs.cn-green?logo=gmail)](mailto:mentalflow@ourdocs.cn)
