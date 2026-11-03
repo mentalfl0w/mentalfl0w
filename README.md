@@ -35,12 +35,8 @@ I work at HQU and am interested in information security, IoT, and software engin
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library">
-    <img src="./profile/pin-DLLN3X_zigbee_mesh_module_library.svg" alt="DLLN3X ZigBee mesh module library" width="48%" />
-  </a>
-  <a href="https://github.com/mentalfl0w/RibbonUI">
-    <img src="./profile/pin-RibbonUI.svg" alt="RibbonUI QML controls" width="48%" />
-  </a>
+  <a href="https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library"><img src="./profile/pin-DLLN3X_zigbee_mesh_module_library.svg" alt="DLLN3X ZigBee mesh module library" width="48%" /></a>
+  <a href="https://github.com/mentalfl0w/RibbonUI"><img src="./profile/pin-RibbonUI.svg" alt="RibbonUI QML controls" width="48%" /></a>
 </p>
 
 - **DLLN3X ZigBee mesh module library** — A library for communicating with and configuring the DLLN3X ZigBee mesh module.
