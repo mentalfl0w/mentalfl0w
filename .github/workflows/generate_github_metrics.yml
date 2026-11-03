@@ -8,6 +8,10 @@ on:
     paths:
       - .github/workflows/generate_github_metrics.yml
 
+concurrency:
+  group: profile-generated-assets-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
