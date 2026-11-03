@@ -1,35 +1,17 @@
-# Dylan Liu
-
-<p align="center">
-  Staff at HQU · Information Security · IoT · Software Engineering
-</p>
-
-<p align="center">
-  <a href="https://blog.ourdocs.cn/">Blog</a> ·
-  <a href="https://github.com/mentalfl0w">GitHub</a> ·
-  <a href="mailto:mentalflow@ourdocs.cn">Email</a>
-</p>
-
----
-
 ## About
 
-I work at HQU and am interested in information security, IoT, and software engineering.
+I am a staff member at HQU with interests in information security, IoT, and software engineering.
 
 ## GitHub activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub profile statistics" width="49%" />
-  <img src="./profile/top-langs.svg" alt="Top languages by repository" width="49%" />
+  <img src="./profile/stats.svg" alt="GitHub profile statistics" width="46%" />
+  <img src="./profile/top-langs.svg" alt="Top languages by repository" width="35%" />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/cadence.dark.svg" />
   <img src="./profile/cadence.light.svg" alt="Commit activity by weekday and hour over the past year" width="100%" />
-</picture>
-
-<picture>
-  <img src="./profile/lines-history.svg" alt="Lines of code added and removed over the last two calendar years" width="100%" />
 </picture>
 
 ## Featured projects
